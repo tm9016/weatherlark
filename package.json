@@ -1,0 +1,14 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "Practice project for Node and Express",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Melton",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
